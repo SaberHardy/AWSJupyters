@@ -1,0 +1,16 @@
+id,fullname,email,age
+1,John Doe,john.doe@email.com,32
+2,Jane Smith,,44
+3,Mark Johnson,mark.johnson@email.com,
+4,,emily.brown@email.com,76
+5,Michael Davis,,7
+6,Sarah Wilson,sarah.wilson@email.com,
+7,Kevin Lee,,
+8,,amanda.taylor@email.com,60
+9,Brian Miller,brian.miller@email.com,43
+10,,jessica.garcia@email.com
+11,Eric Robinson,,54
+12,,rachel.martinez@email.com,22
+13,Ryan Carter,ryan.carter@email.com
+14,,lisa.turner@email.com,25
+15,Alex Brown,,35
